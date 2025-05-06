@@ -13,6 +13,9 @@ Features:
 * Supports multiple containers
 * Scheduled on/off
 
+> [!NOTE]
+> This is a fork from the original USSBA/terraform-aws-easy-fargate-service from the point at which the maintainers decided to remove large swaths of functionality (pre v12.0.0).
+
 ## Usage
 
 ### Prerequisites
